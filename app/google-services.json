@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "42434141434",
+    "firebase_url": "https://tarea-28dcf.firebaseio.com",
+    "project_id": "tarea-28dcf",
+    "storage_bucket": "tarea-28dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42434141434:android:35006b3cf0106d52",
+        "android_client_info": {
+          "package_name": "com.example.estudiante.listasdeusuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42434141434-0unea2mgkjrmma8g8k8rokgpojku7dvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estudiante.listasdeusuario",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqpwYpzpOcs7xNmuP9mc4_ptUZBrktns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42434141434:android:fcbd8ac825ebdd87",
+        "android_client_info": {
+          "package_name": "com.example.estudiante.repaso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42434141434-pgmlrq42gbqs29pqd87i5pt1hgdooak8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estudiante.repaso",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqpwYpzpOcs7xNmuP9mc4_ptUZBrktns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42434141434:android:ff28b1f3ef76385d",
+        "android_client_info": {
+          "package_name": "com.example.imac.androidfacebookfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42434141434-g2ouu1nt6752o150lee202vfd300k83e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imac.androidfacebookfirebaseauth",
+            "certificate_hash": "8ff00d8648585e318d1a67c4509c2fc6e49c8642"
+          }
+        },
+        {
+          "client_id": "42434141434-vssk068rvinpd34un7dgihmqg02qj64u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imac.androidfacebookfirebaseauth",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqpwYpzpOcs7xNmuP9mc4_ptUZBrktns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42434141434:android:d9b33931aaf712e8",
+        "android_client_info": {
+          "package_name": "com.imac.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42434141434-3db74tp89m5v163md9s64sl5h0letj6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imac.whatsapp",
+            "certificate_hash": "8ff00d8648585e318d1a67c4509c2fc6e49c8642"
+          }
+        },
+        {
+          "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqpwYpzpOcs7xNmuP9mc4_ptUZBrktns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42434141434:android:2152581d9c11e0e4",
+        "android_client_info": {
+          "package_name": "losada.dmi.com.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42434141434-pemaeothte7scd8jk6egajti2nlhciv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "losada.dmi.com.whatsapp",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqpwYpzpOcs7xNmuP9mc4_ptUZBrktns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42434141434-i9e364cgnvjjk4gbikaf3a5oilus7ikj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
