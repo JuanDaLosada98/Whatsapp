@@ -107,6 +107,10 @@ public class MainActivity extends AppCompatActivity {
                                 if(task.isSuccessful()) {
                                     Intent irChat = new Intent(MainActivity.this, Chat.class);
                                     startActivity(irChat);
+                                } else {
+                                    Toast.makeText(MainActivity.this,
+                                            task.getException().toString(),
+                                            Toast.LENGTH_SHORT).show();
                                 }
                             }
                         });
